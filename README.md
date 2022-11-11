@@ -1,2 +1,2 @@
 # Image-Processing
-Semester project image processing - humans
+Semester project image processing - human faces
